@@ -15,6 +15,7 @@ elif op =="*":
 elif op =="/":
 	print(num1 / num2)
 elif op =="^":
+	#allows calculation of exponents
 	print(num1 ** num2)
 else:
 	print "0"
