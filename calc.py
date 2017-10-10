@@ -7,4 +7,5 @@ if op == '+':
 	#addition
 	print(num1 + num2)
 elif op =="-":
+	#otherwise subtract
 	print(num1 - num2)
