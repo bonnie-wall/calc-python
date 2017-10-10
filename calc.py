@@ -12,4 +12,6 @@ elif op =="-":
 elif op =="*":
 	# now includes multiplication
 	print(num1 * num2)
+else:
+	print "0"
 ## end of file
